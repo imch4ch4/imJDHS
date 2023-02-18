@@ -1,3 +1,28 @@
-.coral{
-    color:coral;
+.header h1 {
+    color: coral;
+    float: center;
+    font-size: x-large
+}
+
+.intro p {
+    float: center;
+    font-size: large;
+}
+
+.main {
+    position: relative;
+}
+.main img {
+    float: left;
+    width: 200px;
+    height: 300px;
+    object-fit: scale-down;
+}
+
+.main p {
+    background-color: #FFEEBC;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
