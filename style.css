@@ -26,13 +26,14 @@
 }
 
 .title h1 {
+    position: fixed;
     left: 0;
     right: 0;
     top: 0;
 
     color: coral;
     font-weight: bold;
-    position: fixed;
+    
     background-color: #fff;
     height: 150px;
     text-align: center;
@@ -40,5 +41,5 @@
 
 
 .content {
-    padding-top: 500px;
+    padding-top: 300px;
 }
