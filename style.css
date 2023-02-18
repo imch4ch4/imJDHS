@@ -4,11 +4,15 @@
     text-align: center;
     font-size: xx-large
 }
-.intro p {
-    float: center;
+.header p{
+    text-align: center;
     font-size: large;
 }
 
-.main {
-
+.main img{
+    position: relative;
+}
+.main p{
+    position:absolute;
+    text-align: center;
 }
