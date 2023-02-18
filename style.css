@@ -1,6 +1,6 @@
 
 .content {
-    padding-top: 400px;
+    padding-top: 250px;
 }
 .image {
     position: relative;
@@ -40,6 +40,7 @@
     background-color: #fff;
     height: 150px;
     text-align: center;
+    background-color: lightgoldenrodyellow;
 }
 
 
