@@ -1,3 +1,7 @@
+
+.content {
+    padding-top: 400px;
+}
 .image {
     position: relative;
     float: left;
@@ -33,13 +37,9 @@
 
     color: coral;
     font-weight: bold;
-    
     background-color: #fff;
     height: 150px;
     text-align: center;
 }
 
 
-.content {
-    padding-top: 300px;
-}
