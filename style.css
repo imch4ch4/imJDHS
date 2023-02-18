@@ -35,11 +35,6 @@
     position: fixed;
     background-color: #fff;
     height: 100px;
-    display: flex;
     text-align: center;
 }
 
-
-.content {
-    padding-top: 300px;
-}
