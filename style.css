@@ -2,6 +2,7 @@
 .content {
     padding-top: 200px;
 }
+
 .image {
     position: relative;
     float: left;
@@ -32,18 +33,17 @@
 .title h1 {
     position: fixed;
     width: 100%;
-    top: 0; left: 0;
+    top: 0;
+    left: 0;
 
     color: coral;
     font-weight: bold;
     background-color: #fff;
     height: 100px;
     text-align: center;
-    background-color:antiquewhite;
+    background-color: antiquewhite;
     vertical-align: middle;
-    
- 
-  
+
+
+
 }
-
-
