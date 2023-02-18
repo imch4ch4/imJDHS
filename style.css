@@ -1,6 +1,9 @@
 .image {
 position:relative;
 }
+.image img{
+    width:300px; height:300px;
+}
 .text {
     position:absolute;
     top: 90px;
