@@ -6,8 +6,8 @@ position:relative;
 }
 .text {
     position:absolute;
-    top: 170px;
-    left: 140px;
+    top: 200px;
+    left: 120px;
     z-index: 1;
     width: 120px;
     color:#fff;
