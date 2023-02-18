@@ -24,4 +24,8 @@ margin-bottom: 13px;
 .title h1{
     color:coral;
     font-weight:bold;
+    position:fixed;
+}
+.title h4{
+    margin-bottom: 10px;
 }
