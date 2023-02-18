@@ -1,6 +1,6 @@
 
 .content {
-    padding-top: 700px;
+    padding-top: 400px;
 }
 
 .image {
@@ -42,4 +42,11 @@
     text-align: center;
     background-color: antiquewhite;
     vertical-align: middle;
+}
+.html,body {
+
+	margin: 0;
+
+	padding: 0;
+
 }
