@@ -7,7 +7,7 @@ position:relative;
 .text {
     position:absolute;
     top: 200px;
-    left: 120px;
+    left: 110px;
     z-index: 1;
     width: 120px;
     color:#fff;
@@ -15,5 +15,5 @@ position:relative;
     background-color: black;
     margin-left : auto;
     margin-right : auto;
-    
+    text-align: center;
 }
