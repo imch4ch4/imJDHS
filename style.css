@@ -33,14 +33,14 @@
     left: 0;
     right: 0;
     top: 0;
-    height: 75px;
+    height: 100px;
 }
 
 .title h4 {
     margin-bottom: 10px;
-    margin-top: 30px;
+    margin-top: 120px;
 }
 
 .content {
-    padding-top: 75px;
+    padding-top: 160px;
 }
