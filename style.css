@@ -3,7 +3,9 @@ position:relative;
 }
 .image.text {
     position:absolute;
-    top: 10px;
-    left: 10px;
+    top: 90px;
+    left: 20px;
+    z-index: 1;
+    width: 120px;
     color:#fff;
 }
