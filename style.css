@@ -1,6 +1,6 @@
 
 .content {
-    padding-top: 200px;
+    padding-top: 700px;
 }
 
 .image {
@@ -38,12 +38,8 @@
 
     color: coral;
     font-weight: bold;
-    background-color: #fff;
     height: 100px;
     text-align: center;
     background-color: antiquewhite;
     vertical-align: middle;
-
-
-
 }
