@@ -1,7 +1,7 @@
 .image {
 position:relative;
 }
-.image.text {
+.text {
     position:absolute;
     top: 90px;
     left: 20px;
